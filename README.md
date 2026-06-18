@@ -121,6 +121,11 @@ Arabic is the 5th most spoken language in the world with 400M+ speakers, yet the
 3. Keep descriptions bilingual (English + Arabic) when possible
 4. Submit a Pull Request
 
+## Web Tools • أدوات ويب
+
+* **[Arabizi.io](https://arabizi.io)** — Virtual Arabic keyboard and real-time phonetic transliteration tool.
+* **[Cviya](https://cviya.com/ar)** — Free, AI-powered professional resume builder with full Arabic/RTL support.
+
 ---
 
 **⭐ Star this repo if it helped you! | أعطِ نجمة إذا أفادك هذا المشروع! ⭐**
