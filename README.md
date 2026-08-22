@@ -65,6 +65,7 @@ Arabic is the 5th most spoken language in the world with 400M+ speakers, yet the
 
 ## Open Source Projects • مشاريع مفتوحة
 
+- **[3ammiya](https://3ammiya.com/en/)** — قاموس مصري مجاني ببحث بالعربي والفرانكو وأمثلة من الكلام اليومي
 - **[CAMeL Lab](https://github.com/CAMeL-Lab)** — Arabic NLP research (NYU Abu Dhabi)
 - **[linuxscout](https://github.com/linuxscout)** — Many Arabic NLP open source tools
 - **[npmx.dev](https://github.com/npmx-dev/npmx.dev)** — Arabic locale i18n contributions welcome!
