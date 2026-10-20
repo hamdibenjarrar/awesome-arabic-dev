@@ -62,6 +62,7 @@ Arabic is the 5th most spoken language in the world with 400M+ speakers, yet the
 - **[arabic-reshaper](https://github.com/mpcabd/python-arabic-reshaper)** — Reshape Arabic text for correct rendering
 
 ---
+- **[toolcraftx](https://toolcraftx.com)** — مجموعة أدوات ذكاء اصطناعي مجانية بالعربية (١٤ أداة: كاتب SEO، مخطط مقالات، توصيف منتجات، سيناريو فيديو، عناوين جذابة، والمزيد). مبنية أصلاً للعربية الفصحى — ليست مترجمة من الإنجليزية. Free Arabic AI toolbox with 14 tools, built natively for MSA Arabic.
 
 ## Open Source Projects • مشاريع مفتوحة
 
